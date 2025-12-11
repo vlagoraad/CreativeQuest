@@ -1,25 +1,64 @@
-📱 CreativeQuest — Transforme pequenos desafios em grandes conquistas
+<h1 align="center">CreativeQuest</h1>
+<p align="center">
+  Transforme pequenos desafios em grandes conquistas.
+</p>
 
-Bem-vindo ao CreativeQuest, um app iOS desenvolvido em SwiftUI que gamifica o processo criativo através de desafios rápidos, notas personalizadas e um histórico de progresso visual.
-O objetivo é tornar a criatividade um hábito — leve, divertido e recompensador. ✨
+<p align="center">
+  <img src="Simulator Screenshot - iPhone 17 Pro - 2025-12-11 at 16.17.25.png" alt="Tela inicial do CreativeQuest" width="300" style="border-radius: 15px; margin-right: 10px;">
+  <img src="Simulator Screenshot - iPhone 17 Pro - 2025-12-11 at 16.17.27.png" alt="Tela do desafio no CreativeQuest" width="300" style="border-radius: 15px;">
+</p>
 
-🚀 Funcionalidades
-🎯 Desafios Diários
+<hr>
 
-Receba desafios criativos que estimulam escrita, imaginação e reflexão.
+<h2>Sobre o Projeto</h2>
+<p>
+  O <strong>CreativeQuest</strong> é um aplicativo iOS desenvolvido em <strong>SwiftUI</strong> que gamifica o processo criativo através de desafios rápidos, 
+  notas personalizadas e um histórico visual de progresso. A ideia é transformar a criatividade em um hábito diário — leve, divertido e recompensador. ✨
+</p>
 
-📝 Notas Personalizadas
+<hr>
 
-Cada desafio pode gerar uma nota com texto livre.
+<h2>Funcionalidades</h2>
 
-🕒 Histórico Completo
+<ul>
+  <li><strong>🎯 Desafios Diários</strong><br>
+    Receba desafios criativos que estimulam escrita, imaginação e reflexão.
+  </li>
+  <br>
 
-Veja todos os desafios que você já completou e navegue pelos detalhes.
+  <li><strong>📝 Notas Personalizadas</strong><br>
+    Cada desafio pode gerar uma nota com texto livre, podendo ser editada e revisitada.
+  </li>
+  <br>
 
-🎉 Tela de Celebração
+  <li><strong>🕒 Histórico Completo</strong><br>
+    Veja todos os desafios já concluídos e acesse detalhes sempre que quiser.
+  </li>
+  <br>
 
-Ao completar um desafio, o app exibe uma animação cheia de energia positiva.
+  <li><strong>🎉 Tela de Celebração</strong><br>
+    Ao completar um desafio, uma animação energética e motivadora aparece para reforçar o progresso.
+  </li>
+  <br>
 
-🔔 Haptics Integrados
+  <li><strong>🔔 Haptics Integrados</strong><br>
+    Feedback tátil nativo torna a experiência mais envolvente e imersiva.
+  </li>
+</ul>
 
-Feedback tátil nativo para deixar as interações mais imersivas.
+<hr>
+
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>Swift</li>
+  <li>SwiftUI</li>
+  <li>MVVM Architecture</li>
+  <li>CoreData (opcional, caso use)</li>
+  <li>UIKit Haptics</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <em>Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento iOS.</em>
+</p>
